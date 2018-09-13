@@ -47,7 +47,7 @@ li{
 
 }
 
-li .selected-channel{
+.selected-channel{
     border-left: 4px solid #3F51B5;
     color: #3F51B5;
 }
@@ -61,7 +61,7 @@ li .selected-channel{
     border: none;
     font-size: 13px;
     box-sizing: border-box;
-    width: 33%;
+    width: 32%;
     height: 72px;
     padding: 16px;
 
